@@ -14,6 +14,7 @@ namespace PR10
             Console.WriteLine("Hello World2");
             Console.WriteLine("Привет салённая кароба");
             Console.WriteLine("Пока");
+       // https://github.com/llFire1/PR10.git
             Console.WriteLine("Каждый 3 - 3");//454
         }
     }
