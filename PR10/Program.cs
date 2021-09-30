@@ -16,6 +16,7 @@ namespace PR10
             Console.WriteLine("Пока");
        // https://github.com/llFire1/PR10.git
             Console.WriteLine("Каждый 3 - 3");//454
+            Console.WriteLine("Я вижу вас, а вы меня нЭт");
         }
     }
 }
